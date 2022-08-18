@@ -25,18 +25,18 @@
 
 ## Skills:
 <p align="center">
-  <img style="width:80px, height: 100px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img style="width:80px, height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg"/>
-  <img style="width:80px, height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
-  <img style="width:80px, height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
-  <img style="width:80px, height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/>
-  <img style="width:80px, height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"/>
-  <img style="width:80px, height: 100px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img style="width:80px, height: 100px" src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img style="width:80px, height: 100px" src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img style="width:80px, height: 100px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img style="width:80px, height: 100px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img style="width:80px, height: 100px" src="https://img.icons8.com/color/48/000000/trello.png"/>
+  <img style="width:80px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img style="width:80px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg"/>
+  <img style="width:80px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
+  <img style="width:80px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
+  <img style="width:80px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/>
+  <img style="width:80px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"/>
+  <img style="width:80px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img style="width:80px" src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img style="width:80px" src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  <img style="width:80px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img style="width:80px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+  <img style="width:80px" src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
 <table style="width:100%;">
